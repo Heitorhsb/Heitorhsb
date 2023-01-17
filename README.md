@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! ✌️✌️✌️ 
 
-<!--
-**Heitorhsb/Heitorhsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
+</br>
 
-Here are some ideas to get you started:
+[![linkend](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor90henrique/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ![Snake animation](https://github.com/Heitorhsb/Heitorhsb/blob/output/github-contribution-grid-snake.svg)
+
+
+- 🔭 I’m currently working on Ita Ventures 
+- 🌱 I’m currently learning Python e Ruby
+- 👯 I’m looking to collaborate on Open Source works
+- 💬 Ask me about Sobre qualquer coisa
