@@ -9,4 +9,4 @@
 - 🔭 I’m currently working on Ita Ventures 
 - 🌱 I’m currently learning Python e Ruby
 - 👯 I’m looking to collaborate on Open Source works
-- 💬 Ask me about Sobre qualquer coisa
+- 💬 Ask me about qualquer coisa
