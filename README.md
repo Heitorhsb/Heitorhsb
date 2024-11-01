@@ -12,15 +12,3 @@
   💼 Ferramentas: <b>Postman, Metabase, Jira, Zendesk e Excel </b>
 </p>
 
-<p align="left">
-  💌 caso queira entrar em contato, segue minhas redes: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=heitor90henrique@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor90henrique/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5512988930009" alt="WhatsApp"/></a>
-</p>
