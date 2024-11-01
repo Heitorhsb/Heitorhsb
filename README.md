@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, Ruby e SQL**
+  🦄 Linguagens:  <b>Python, Ruby e SQL </b>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Postman, Metabase, Jira, Zendesk e Excel**
+  💼 Ferramentas: <b>Postman, Metabase, Jira, Zendesk e Excel </b>
 </p>
 
 <p align="left">
