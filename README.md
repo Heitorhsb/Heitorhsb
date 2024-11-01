@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on Ita Ventures 
-- 🌱 I’m currently learning Python e Ruby
+- 🔭 I’m currently working on Dock
+- 🌱 I’m currently learning Python, Ruby and SQL
 - 👯 I’m looking to collaborate on Open Source works
-- 💬 Ask me about qualquer coisa
+- 💬 Ask me about something
